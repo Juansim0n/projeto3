@@ -1,0 +1,89 @@
+{
+    "Sobremesas": [
+      { "id": 1,
+        "nome": "Mousse", 
+        "preço": "R$ 4,00" },
+        
+     { "id": 2,
+       "nome": "Torta", 
+       "preço": "R$ 6,00" },
+
+      { "id": 3,
+        "nome": "Pudin", 
+        "preço": "R$ 6,00" },
+
+        { "id": 4,
+            "nome": "Sorvete", 
+            "preço": "R$ 3,00" },
+
+            { "id": 5,
+                "nome": "Pavê", 
+                "preço": "R$ 6,00" },
+
+            { "id": 6,
+                 "nome": "Docinho", 
+                  "preço": "R$ 1,50" }
+    ],
+
+    "Lanches": [
+        { "id": 1,
+            "nome": "Cachorro quente", 
+            "preço": "R$ 5,00" },
+    
+          { "id": 2,
+            "nome": "Mini Pizzas", 
+            "preço": "R$ 5,00" },
+           
+            { "id": 3,
+                "nome": "Torta Salgada", 
+                "preço": "R$ 6,00" },
+
+                { "id": 4,
+                    "nome": "X-tudo", 
+                    "preço": "R$ 7,00" },
+
+             { "id": 5,
+                 "nome": "X-bacon", 
+                 "preço": "R$ 4,00" },
+                    
+             { "id": 6,
+                "nome": "X-calabresa", 
+                "preço": "R$ 6,00" }
+             
+    ],
+
+    "Bebidas":[
+        { "id": 1,
+            "nome": "Coca-Cola",
+            "Litros":   2,
+            "preço": "R$ 10,00" },
+            
+         { "id": 2,
+           "nome": "Fanta Laranja", 
+           "Litros":   2,
+           "preço": "R$ 8,00" },
+    
+          { "id": 3,
+            "nome": "Pepsi",
+            "Litros":   2, 
+            "preço": "R$ 9,00" },
+
+            { "id": 4,
+                "nome": "Sprite", 
+                "Litros":   2,
+                "preço": "R$ 7,50" },
+
+                { "id": 5,
+                    "nome": "Suco", 
+                    "Litros":   2,
+                    "preço": "R$ 7,50" },
+
+                    { "id": 6,
+                        "nome": "agua", 
+                        "Litros":   2,
+                        "preço": "R$ 4,00" }
+
+           
+        ]
+  }
+
